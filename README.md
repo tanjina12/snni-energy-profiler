@@ -7,7 +7,7 @@ This repository serves as the replication package for the paper titled "Profilin
 3. Zoltán Ádám Mann (University of Halle-Wittenberg)
 4. Sander Klous (University of Amsterdam)
   
-For any queries, interested researchers can contact [Tanjina Islam](t.islam@uva.nl). The full dataset-including raw data, mining scripts, and analysis scripts-produced during the study, is available below.
+For any queries, interested researchers may contact [Tanjina Islam](t.islam@uva.nl). The full dataset-including raw data, data processing scripts, and analysis scripts generated during the study, is available below.
 
 # Replication Package Contents
 This repository contains all the materials necessary to replicate the study:
